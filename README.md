@@ -5,3 +5,5 @@ Consistent functional parcellation of Broca's region consisting of 13 subdivisio
 
 Paper: 
 [Cross-cultural consistency and diversity in intrinsic functional organization of Broca's Region] (https://www.sciencedirect.com/science/article/pii/S1053811917301532#bib68 "Neuroimage paper")
+
+Blog: [Cross-cultural effects on functional achitecture of Broca's region](https://wordpress.com/post/yuzhang2017.wordpress.com/291)
